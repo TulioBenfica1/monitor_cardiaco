@@ -1,1 +1,1 @@
-# Monitor de Frquência Cardíaca
+# Monitor de Frequência Cardíaca
